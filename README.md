@@ -6,7 +6,7 @@ FindMyDoc is an online appointment booking system designed for healthcare profes
 
 ## Features
 
-- Cross platform
+- Cross-platform
 - Responsive
 - Authorization
 - Authentication
@@ -24,8 +24,8 @@ FindMyDoc is an online appointment booking system designed for healthcare profes
 **Server:** Node, Express
 
 **Database:** 
-SQL : freesqldatabase.com ,
-MongoDB : MongoDB Atlas
+SQL: planetscale.com/,
+MongoDB: MongoDB Atlas
 
 
 ## Run Locally
@@ -79,22 +79,22 @@ To run this project, you will need to add the following environment variables to
 
 #### Welcome 
 
-```http
+```HTTP
   GET /home
 ```
 
 #### Get | Post | Update | Delete User's
 
-```http
+```HTTP
   GET /user
 ```
 #### Get | Post | Update | Delete Appointment's
-```http
+```HTTP
   GET /appointments
  ```
 
 #### Get | Post | Update | Delete Doctor's
-```http
+```HTTP
   GET /doctors
 ```
 
